@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+body{
+background: rgba(70, 142, 236);
+font: normal 15pt Arial;
+}
+
+header{
+color: #ffffff;
+text-align: center;
+}
+
+section{
+background: #ffffff;
+border-radius: 10px;
+padding: 15px;
+width: 800px;
+margin: auto;
+box-shadow: 5px 5px 5px #0000005e;
+}
+
+footer{
+color: #ffffff;
+text-align: center;
+font-style: italic;
+margin-top: 25px;
+}
+
+#imagem{
+    margin-top: -130px;
+    margin-bottom: -150px;
+}
+
+button{
+    padding: 7px;
+    font-size: 12pt;
+    border: 1px solid #000000;
+    box-shadow: 3px 3px 1px rgba(96, 96, 96,.5);
+    border-radius: 10px;
+    font-weight: bold;
+}
